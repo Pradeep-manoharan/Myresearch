@@ -1,0 +1,3 @@
+1) if your define the process model but still you got error for process model not define then, u are not make connection properly
+2) only u and v, that is internel variable can be alias not port alise
+3)
